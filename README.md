@@ -11,7 +11,7 @@ Multi-step Eliminating Operational Workflow for Sequences
 ---------------------------------------------------------
 
 ###Overview
-    Multi-step Eliminating Operational Workflow for Sequences, affectionately
+Multi-step Eliminating Operational Workflow for Sequences, affectionately
 called **MEOWS**, is a program used to automatically generate a maximum
 likelihood phylogeny for its users. As a user, you simply input a `fasta`
 file that contains one sequence for your locus of interest. MEOWS uses *NCBI's
@@ -31,7 +31,7 @@ In order to run MEOWS, you will need:
     link to [RAxML website](http://sco.h-its.org/exelixis/web/software/raxml/)
 
 ###Acknowledgments
-    Ideas and coding suggestions for this program were provided by Fernando
+Ideas and coding suggestions for this program were provided by Fernando
 Alda and Subir Shakya. Additional coding help was provided by Brant Faircloth,
 specifically dealing with the use of subprocess.
 
