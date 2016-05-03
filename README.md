@@ -66,6 +66,11 @@ Before starting the example, please fork the `meows` directory and save it to yo
 Commandline Example Image:
 ![example image](example.png)
 
+3. Your directory will now be populated with:
+  * all_blast_seqs
+  * muscle_output
+  * RAxML files (5)
+
 Limia Phylogeny Example:
 ![Limia phylogeny](limia_phylogeny.png)
 
