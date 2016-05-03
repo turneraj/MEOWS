@@ -54,8 +54,8 @@ import shlex
 
 ######If you are unfamiliar with the abovementioned modules, I suggest finding the documentation for each one and browsing through it.
 
-###Example--How to use MEOWS
-In the `meows` directory, there is a FASTA file containing the sequence of *Limia melanonotata* (GenBank: JX968693.1; Alda *et al.*, 2013) cytochrome oxidase subunit I (COI) gene.
+###Example -- How to use MEOWS
+Before starting the example, please fork the `meows` directory and save it to your computer. In the `meows` directory, there is a FASTA file containing the sequence of *Limia melanonotata* (GenBank: JX968693.1; Alda *et al.*, 2013) cytochrome oxidase subunit I (COI) gene (`example_seq.fasta`).
 
 ###Acknowledgments
 Ideas and coding suggestions for this program were provided by Fernando
