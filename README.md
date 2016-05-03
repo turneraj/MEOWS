@@ -23,12 +23,12 @@ subprocessed to **RAxML** to construct a maximum likelihood phylogeny.
 
 ###Program Requirements
 In order to run MEOWS, you will need:
-    *Python 3.5
-    link to [Python website](https://www.python.org/downloads/release/python-350/)
-    *MUSCLE
-    link to [MUSCLE website](http://www.drive5.com/muscle/)
-    *RAxML
-    link to [RAxML website](http://sco.h-its.org/exelixis/web/software/raxml/)
+    1. Python 3.5
+      * link to [Python website](https://www.python.org/downloads/release/python-350/)
+    2. MUSCLE
+      * link to [MUSCLE website](http://www.drive5.com/muscle/)
+    3. RAxML
+      * link to [RAxML website](http://sco.h-its.org/exelixis/web/software/raxml/)
 
 ###Acknowledgments
 Ideas and coding suggestions for this program were provided by Fernando
