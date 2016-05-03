@@ -59,7 +59,9 @@ Before starting the example, please fork the `meows` directory and save it to yo
 
 1. Open bash (commandline) and set your working directory to the path of the `meows` directory. 
   * In the `meows` directory, there is a FASTA file containing the sequence of *Limia melanonotata* (GenBank: JX968693.1; Alda *et al.*, 2013) cytochrome oxidase subunit I (COI) gene (called `example_seq.fasta`), as well as the code for MEOWS, `meows.py` (ignore picture files).
-3. Once
+2. Once you have set your working directory, you will need to enter (without < or > or ""):
+  * `python meows.py --input <location to example_seq.fasta> --gene <gene name> --muscle_path <path to muscle execuitible file> --raxml_path <path to raxml executible file>`
+  * Enter to run program
 
 Commandline Example Image:
 ![example image](example.png)
