@@ -37,14 +37,16 @@ In order to run MEOWS, you will need:
 
 ###Modules imported in Python:
 
-> import argparse
-> from Bio import Entrez
-> from Bio import SeqIO
-> from Bio.Blast import NCBIXML
-> from Bio.Blast import NCBIWWW
-> import time
-> import subprocess
-> import shlex
+~~~python
+import argparse
+from Bio import Entrez
+from Bio import SeqIO
+from Bio.Blast import NCBIXML
+from Bio.Blast import NCBIWWW
+import time
+import subprocess
+import shlex
+~~~
 
 ###Functions in MEOWS
 1. **def file_info():**
