@@ -58,7 +58,7 @@ import shlex
 Before starting the example, please fork the `meows` directory and save it to your computer. Within the same directory, you should have your `MUSCLE executible file` and `RAxML executible file`.
 
 1. Open bash (commandline) and set your working directory to the path of the `meows` directory. 
-2. In the `meows` directory, there is a FASTA file containing the sequence of *Limia melanonotata* (GenBank: JX968693.1; Alda *et al.*, 2013) cytochrome oxidase subunit I (COI) gene (`example_seq.fasta`).
+2. In the `meows` directory, there is a FASTA file containing the sequence of *Limia melanonotata* (GenBank: JX968693.1; Alda *et al.*, 2013) cytochrome oxidase subunit I (COI) gene (called `example_seq.fasta`).
 
 ###Acknowledgments
 Ideas and coding suggestions for this program were provided by Fernando
