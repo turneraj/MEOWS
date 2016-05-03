@@ -63,7 +63,7 @@ import shlex
 2. Once you have set your working directory, you will need to enter (without < or > or ""):
   * `python meows.py --input <location to example_seq.fasta> --gene <gene name> --muscle_path <full path to muscle execuitable file> --raxml_path <full path to raxml executable file>`
   * Hit return to run program
-  * **Note: Your commandline code should look similar to the "Commandline Example Image" below, but with your own path to files. If you are workign on Windows, your path should start with "C:\..." (make sure to use \ and not / when using windows).**
+  * **Note: Your commandline code should look similar to the "Commandline Example Image" below, but with your own path to files. If you are workign on Windows, your path should start with "C:\ " (make sure to use \ and not / when using windows).**
 
 3. Your directory will now be populated with:
   * all_blast_seqs
