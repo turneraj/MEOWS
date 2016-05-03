@@ -1,7 +1,11 @@
 Title: README for MEOWS
+
 Version: 0.1(4 May 2016)
+
 Author: A.J. Turner -- created for BIOL 7800 at Louisiana State University
+
 Created: April 2016
+
 Edited: May 2016
 
 MEOWS
@@ -23,6 +27,7 @@ subprocessed to **RAxML** to construct a maximum likelihood phylogeny.
 
 ###Program Requirements
 In order to run MEOWS, you will need:
+
     1. Python 3.5
       * link to [Python website](https://www.python.org/downloads/release/python-350/)
     2. MUSCLE
