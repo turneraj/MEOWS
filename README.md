@@ -44,8 +44,11 @@ specifically dealing with the use of subprocess.
 1. A. Stamatakis: "RAxML Version 8: A tool for Phylogenetic Analysis and
 Post-Analysis of Large Phylogenies". In Bioinformatics, 2014, open access.
 
-2. http://stackoverflow.com/questions/25362382 -- Using NCBI BLAST
+2. Edgar, R.C. (2004) MUSCLE: multiple sequence alignment with high accuracy and high throughput
+Nucleic Acids Res. 32(5):1792-1797
 
-3. https://www.biostars.org/p/131113/ -- Using NCBI BLAST
+3. http://stackoverflow.com/questions/25362382 -- Using NCBI BLAST
 
-4. Cite the people who uploaded the Limia sequence being used in example
+4. https://www.biostars.org/p/131113/ -- Using NCBI BLAST
+
+5. Cite the people who uploaded the Limia sequence being used in example
