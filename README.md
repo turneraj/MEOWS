@@ -55,12 +55,12 @@ import shlex
 ######If you are unfamiliar with the abovementioned modules, I suggest finding the documentation for each one and browsing through it.
 
 ###Example --- How to use MEOWS
-**Before starting the example, please fork the `meows` directory and save it to your computer. Within the same directory, you should have your `MUSCLE executible file` and `RAxML executible file`.**
+**Before starting the example, please fork the `meows` directory and save it to your computer. Within the same directory, you should have your `MUSCLE executable file` and `RAxML executable file`.**
 
 1. Open bash (commandline) and set your working directory to the path of the `meows` directory. 
   * In the `meows` directory, there is a FASTA file containing the sequence of *Limia melanonotata* (GenBank: JX968693.1; Alda *et al.*, 2013) cytochrome oxidase subunit I (COI) gene (called `example_seq.fasta`), as well as the code for MEOWS, `meows.py` (ignore picture files).
 2. Once you have set your working directory, you will need to enter (without < or > or ""):
-  * `python meows.py --input <location to example_seq.fasta> --gene <gene name> --muscle_path <path to muscle execuitible file> --raxml_path <path to raxml executible file>`
+  * `python meows.py --input <location to example_seq.fasta> --gene <gene name> --muscle_path <full path to muscle execuitable file> --raxml_path <full path to raxml executable file>`
   * Hit return to run program (Note: Your commandline code should look similar to the "Commandline Example Image" below, but with your own path to files)
 3. Your directory will now be populated with:
   * all_blast_seqs
