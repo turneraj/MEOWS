@@ -35,7 +35,7 @@ In order to run MEOWS, you will need:
 3. RAxML
   * link to [RAxML website](http://sco.h-its.org/exelixis/web/software/raxml/)
 
-###Modules imported in Python:
+###Modules Used in Python:
 
 ~~~python
 import argparse
