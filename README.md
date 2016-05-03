@@ -54,7 +54,7 @@ import shlex
 
 ###Acknowledgments
 Ideas and coding suggestions for this program were provided by Fernando
-Alda and Subir Shakya. Additional coding help was provided by Brant Faircloth,
+Alda and Subir Shakya. Additional coding help was provided by Brant Faircloth and Michael Henson,
 specifically dealing with the use of subprocess.
 
 ###Citations
