@@ -51,7 +51,7 @@ import shlex
 ~~~
 
 ###Example
-
+In the `MEOWS` directory, there is a FASTA file containing the sequence of *Limia melanonotata* (GenBank: JX968693.1; Alda *et al.* 2013) cytochrome oxidase subunit I (COI) gene.
 
 ###Acknowledgments
 Ideas and coding suggestions for this program were provided by Fernando
