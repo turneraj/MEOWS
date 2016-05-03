@@ -17,7 +17,7 @@ Multi-step Eliminating Operational Workflow for Sequences
 ###Overview
 Multi-step Eliminating Operational Workflow for Sequences, affectionately
 called **MEOWS**, is a program used to automatically generate a maximum
-likelihood phylogeny for its users. As a user, you simply input a `fasta`
+likelihood phylogeny for its users. As a user, you simply input a `.fasta`
 file that contains one sequence for your locus of interest. MEOWS uses **NCBI's
 BLAST** to check the identify of the `input sequence`, returning the genus to
 screen, and then proceeds to download sequence data for every species within
