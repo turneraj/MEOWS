@@ -75,4 +75,6 @@ Post-Analysis of Large Phylogenies". In Bioinformatics, 2014, open access.
 
 5. https://www.biostars.org/p/131113/ -- Using NCBI BLAST
 
+6. http://tree.bio.ed.ac.uk/software/figtree/
+
 
