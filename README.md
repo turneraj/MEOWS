@@ -2,7 +2,7 @@ Title: README for MEOWS
 
 Version: 0.1(4 May 2016)
 
-Author: A.J. Turner -- created for BIOL 7800 at Louisiana State University
+Author: A.J. Turner --- created for BIOL 7800 at Louisiana State University
 
 Created: April 2016
 
@@ -34,6 +34,21 @@ In order to run MEOWS, you will need:
   * link to [MUSCLE website](http://www.drive5.com/muscle/)
 3. RAxML
   * link to [RAxML website](http://sco.h-its.org/exelixis/web/software/raxml/)
+
+###Modules imported in Python:
+
+> import argparse
+> from Bio import Entrez
+> from Bio import SeqIO
+> from Bio.Blast import NCBIXML
+> from Bio.Blast import NCBIWWW
+> import time
+> import subprocess
+> import shlex
+
+###Functions in MEOWS
+1. **def file_info():**
+ * This function uses the ar
 
 ###Acknowledgments
 Ideas and coding suggestions for this program were provided by Fernando
