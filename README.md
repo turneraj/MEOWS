@@ -61,9 +61,10 @@ Before starting the example, please fork the `meows` directory and save it to yo
 2. In the `meows` directory, there is a FASTA file containing the sequence of *Limia melanonotata* (GenBank: JX968693.1; Alda *et al.*, 2013) cytochrome oxidase subunit I (COI) gene (called `example_seq.fasta`), as well as the code for MEOWS, `meows.py` (ignore picture files).
   * 
 
-
+Commandline Example Image:
 ![example image](example.png)
 
+Limia Phylogeny Example:
 ![Limia phylogeny](limia_phylogeny.png)
 
 ###Acknowledgments
