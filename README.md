@@ -34,6 +34,8 @@ In order to run MEOWS, you will need:
   * link to [MUSCLE website](http://www.drive5.com/muscle/)
 3. RAxML
   * link to [RAxML website](http://sco.h-its.org/exelixis/web/software/raxml/)
+ 
+#####MEOWS was developed and tested with Apple OSX El Capitan 10.11.4, therefore, it is suggested that you use the same platform. 
 
 ###Modules Used in Python:
 
@@ -48,9 +50,8 @@ import subprocess
 import shlex
 ~~~
 
-###Functions in MEOWS
-1. **def file_info():**
- * This function uses the ar
+###Example
+
 
 ###Acknowledgments
 Ideas and coding suggestions for this program were provided by Fernando
