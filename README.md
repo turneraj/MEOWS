@@ -66,7 +66,7 @@ Before starting the example, please fork the `meows` directory and save it to yo
   * all_blast_seqs
   * muscle_output
   * RAxML files (5)
-4. Open FigTree, select "open" and choose the file named `RAxML_bipartitions.raxml_analysis` to visualize the phylogeny for *Limia* using the COI locus. An example of the phylogeny is found below ("Limia Phylogeny Example). **Note: FigTree may prompt you with "Please select a name for these values", in which case type "bootstrap."
+4. Open FigTree, select "open" and choose the file named `RAxML_bipartitions.raxml_analysis` to visualize the phylogeny for *Limia* using the COI locus. An example of the phylogeny is found below ("Limia Phylogeny Example). **Note: FigTree may prompt you with "Please select a name for these values", in which case type "bootstrap."**
 
 Commandline Example Image:
 ![example image](example.png)
