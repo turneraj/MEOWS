@@ -35,7 +35,7 @@ In order to run MEOWS, you will need:
 3. RAxML
   * link to [RAxML website](http://sco.h-its.org/exelixis/web/software/raxml/)
  
-#####MEOWS was developed and tested with Apple OSX El Capitan 10.11.4, therefore, it is suggested that you use the same platform. 
+######MEOWS was developed and tested with Apple OSX El Capitan 10.11.4, therefore, it is suggested that you use the same platform. 
 
 ###Modules Used in Python:
 
