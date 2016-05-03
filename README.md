@@ -60,7 +60,7 @@ In the `MEOWS` directory, there is a FASTA file containing the sequence of *Limi
 ###Acknowledgments
 Ideas and coding suggestions for this program were provided by Fernando
 Alda and Subir Shakya. Additional coding help was provided by Brant Faircloth and Michael Henson,
-specifically dealing with the use of subprocess.
+specifically dealing with the use of the subprocess module.
 
 ###Citations
 1. A. Stamatakis: "RAxML Version 8: A tool for Phylogenetic Analysis and
