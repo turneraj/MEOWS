@@ -30,7 +30,7 @@ In order to run MEOWS, you will need:
 
 1. Python 3.5
   * link to [Python website](https://www.python.org/downloads/release/python-350/)
-2. Biopython
+2. Biopython Module
   * from commandline, you can install via "conda install biopython"
 3. MUSCLE
   * link to [MUSCLE website](http://www.drive5.com/muscle/)
