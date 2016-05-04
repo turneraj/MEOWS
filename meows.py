@@ -7,7 +7,7 @@ called **MEOWS**, is a program used to automatically generate a maximum
 likelihood phylogeny for its users. Users simply input a FASTA
 file that contains one sequence for their locus of interest. MEOWS uses
 **NCBI's BLAST** to check the identify of the input sequence, returning the
-genus to screen, and then proceeds to download sequence data for every 
+genus to screen, and then proceeds to download sequence data for every
 species within the specified genus for the locus under study. These sequences
 are then aligned by creating a subprocess to **MUSCLE**, after which the
 `muscle_output` is then subprocessed to **RAxML** to construct a maximum
