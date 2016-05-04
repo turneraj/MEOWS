@@ -28,13 +28,13 @@ import shlex
 
 
 def file_info():
-    '''input of email, fasta file path, gene name, and path to MUSCLE
+    '''input of email, fasta file path, gene name, and full paths to MUSCLE
     and RAxML executible files from user'''
     parser = argparse.ArgumentParser()
     parser.add_argument("--email", required=True, help="enter --input followed\
     by email address", type=str)
     parser.add_argument("--input", required=True, help="enter --input followed\
-    by path of input file (drop to commandline is easiest)", type=str)
+    by exact path of input file (drop to commandline is easiest)", type=str)
     parser.add_argument("--gene", required=True, help="enter --gene followed\
     by name of gene for your sequence", type=str)
     parser.add_argument("--muscle_path", required=True, help="enter \
