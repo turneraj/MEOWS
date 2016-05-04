@@ -23,7 +23,7 @@ BLAST** to check the identify of the input sequence, returning the genus to
 screen, and then proceeds to download sequence data for every species within
 the specified genus for the locus under study. These sequences are then aligned
 by creating a subprocess to **MUSCLE**, after which the `muscle_output` is then
-subprocessed to **RAxML** to construct a maximum likelihood phylogeny.
+subprocessed to **RAxML** to construct a maximum likelihood phylogeny (when viewed in FigTree).
 
 ###Program Requirements
 In order to run MEOWS, you will need:
