@@ -72,11 +72,11 @@ import shlex
 
 4. Open FigTree, select "open" and choose the file named `RAxML_bipartitions.raxml_analysis` to visualize the phylogeny for *Limia* using the COI locus. An example of the phylogeny is found below ("Limia Phylogeny Example"). **Note: FigTree may prompt you with "Please select a name for these values", in which case type "bootstrap."**
 
-Commandline Example Image:
+**Commandline Example Image:**
 ![example image](example.png)
 
 
-Limia Phylogeny Example:
+**Limia Phylogeny Example:**
 ![Limia phylogeny](limia_phylogeny.png)
 
 ###Troubleshooting Tips
