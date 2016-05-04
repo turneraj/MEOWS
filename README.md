@@ -61,7 +61,7 @@ import shlex
   * In the `meows` directory, there is a FASTA file containing the sequence of *Limia melanonotata* (GenBank: JX968693.1; Alda *et al.*, 2013) cytochrome oxidase subunit I (COI) gene (called `example_seq.fasta`), as well as the code for MEOWS, `meows.py` (ignore PNG picture files).
 
 2. Once you have set your working directory, you will need to enter (without < or > or ""):
-  * `python meows.py --input <location to example_seq.fasta> --gene <gene name> --muscle_path <full path to muscle execuitable file> --raxml_path <full path to raxml executable file>`
+  * `python meows.py --email <email address> --input <location to example_seq.fasta> --gene <gene name> --muscle_path <full path to muscle execuitable file> --raxml_path <full path to raxml executable file>`
   * Hit return to run program
   * **Note: Your commandline code should look similar to the "Commandline Example Image (Mac or PC specific)" below, but with your own path to files. If you are working on Windows, your path should start with "C:\ " (make sure to use \ and not / when using windows). Additionally, you do not need `.exe` after the names of your executable files when entering their full path.**
 
