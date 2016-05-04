@@ -158,8 +158,8 @@ def raxml(args):
     rapid_bootstrap_seed = " 12345"
     num_replicates = "200"
     name = "raxml_analysis"
-    #  RAxML flags correspond to variables; modify above variables allows you
-    #  to format RAxML analysis
+    #  RAxML flags correspond to variables; modifying above variables allows
+    #  you to format RAxML analysis
     text_command = args.raxml_path+' -T {} -f a -s {} -m {} -p {} -x {} \
 -N {} -n {}'.format(
         numberOfThreads,
