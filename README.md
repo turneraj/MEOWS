@@ -63,14 +63,14 @@ import shlex
 2. Once you have set your working directory, you will need to enter (without < or > or ""):
   * `python meows.py --input <location to example_seq.fasta> --gene <gene name> --muscle_path <full path to muscle execuitable file> --raxml_path <full path to raxml executable file>`
   * Hit return to run program
-  * **Note: Your commandline code should look similar to the "Commandline Example Image" below, but with your own path to files. If you are workign on Windows, your path should start with "C:\ " (make sure to use \ and not / when using windows).**
+  * **Note: Your commandline code should look similar to the "Commandline Example Image" below, but with your own path to files. If you are working on Windows, your path should start with "C:\ " (make sure to use \ and not / when using windows).**
 
 3. Your directory will now be populated with:
   * all_blast_seqs
   * muscle_output
   * RAxML files (5)
 
-4. Open FigTree, select "open" and choose the file named `RAxML_bipartitions.raxml_analysis` to visualize the phylogeny for *Limia* using the COI locus. An example of the phylogeny is found below ("Limia Phylogeny Example). **Note: FigTree may prompt you with "Please select a name for these values", in which case type "bootstrap."**
+4. Open FigTree, select "open" and choose the file named `RAxML_bipartitions.raxml_analysis` to visualize the phylogeny for *Limia* using the COI locus. An example of the phylogeny is found below ("Limia Phylogeny Example"). **Note: FigTree may prompt you with "Please select a name for these values", in which case type "bootstrap."**
 
 Commandline Example Image:
 ![example image](example.png)
