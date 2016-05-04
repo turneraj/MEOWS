@@ -38,6 +38,7 @@ In order to run MEOWS, you will need:
   * link to [RAxML website](http://sco.h-its.org/exelixis/web/software/raxml/)
 5. FigTree (visualize phylogeny)
   * link to [FigTree website](http://tree.bio.ed.ac.uk/software/figtree/)
+  * **if on a Mac, you may need Java SE 6 runtime installed in order to operate FigTree**
  
 ######MEOWS was developed and tested with Apple OSX El Capitan 10.11.4, therefore, it is suggested that you use the same (if not similar) platform. Additionally, MEOWS has been successfully tested on a PC with Windows 10. Lastly, all Python code for MEOWS was developed using Python 3.5, therefore, MEOWS may be incompatible (at its present state) with Python 2.7.
 
