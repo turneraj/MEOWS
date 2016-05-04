@@ -30,11 +30,13 @@ In order to run MEOWS, you will need:
 
 1. Python 3.5
   * link to [Python website](https://www.python.org/downloads/release/python-350/)
-2. MUSCLE
+2. Biopython
+  * from terminal, you can install via "conda install biopython"
+3. MUSCLE
   * link to [MUSCLE website](http://www.drive5.com/muscle/)
-3. RAxML
+4. RAxML
   * link to [RAxML website](http://sco.h-its.org/exelixis/web/software/raxml/)
-4. FigTree (visualize phylogeny)
+5. FigTree (visualize phylogeny)
   * link to [FigTree website](http://tree.bio.ed.ac.uk/software/figtree/)
  
 ######MEOWS was developed and tested with Apple OSX El Capitan 10.11.4, therefore, it is suggested that you use the same (if not similar) platform. Additionally, MEOWS has been successfully tested on a PC with Windows 10. Lastly, all Python code for MEOWS was developed using Python 3.5, therefore, MEOWS may be incompatible (at its present state) with Python 2.7.
